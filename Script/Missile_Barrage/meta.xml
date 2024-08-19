@@ -1,0 +1,9 @@
+<meta>
+    <info 
+        author="Dagger" 
+        version="1.0" 
+        description="Attack similar to B11 Strikeforce's Missile barrage" 
+    />
+
+    <script src="barrage.lua" type="client" />
+</meta>
